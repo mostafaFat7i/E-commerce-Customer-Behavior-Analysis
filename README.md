@@ -1,7 +1,7 @@
 # E-commerce-Customer-Behavior-Analysis
 Examine e-commerce customer behavior by using big data tools and apply it in the following dataset: https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset
 
-# We will answer the following questions using Docker-compose, Hadoop and MapReduce, Spark and Yarn:
+# We will answer the following questions using Docker-compose, Hadoop MapReduce, Spark and Yarn:
 Questions:
 • What purchasing trends are evident in the dataset, and how do they differ based on demographic variables such as age and location?
 • Are there discernible patterns in product preferences or purchase frequency?
