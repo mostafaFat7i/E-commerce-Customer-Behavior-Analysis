@@ -3,9 +3,9 @@ Examine e-commerce customer behavior by using big data tools and apply it in the
 
 # We will answer the following questions using Docker-compose, Hadoop, Spark and Yarn:
 Questions:
-  •	What are the common purchasing patterns observed in the dataset, and how do they vary by demographic factors (age, location)?
-  •	Can we identify any trends in product preferences or buying frequency?
-  •	How does the time of day or week impact online shopping behavior according to the dataset?
+• What purchasing trends are evident in the dataset, and how do they differ based on demographic variables such as age and location?
+• Are there discernible patterns in product preferences or purchase frequency?
+• In what ways does the time of day or week influence online shopping behavior, as indicated by the dataset?
 
 ![image](https://github.com/mostafaFat7i/E-commerce-Customer-Behavior-Analysis/assets/90285188/27eb1f99-88f0-41a5-826a-972a5c97c483)
 ![image](https://github.com/mostafaFat7i/E-commerce-Customer-Behavior-Analysis/assets/90285188/7561f04d-f39b-43ce-a864-372e04cd0c9b)
